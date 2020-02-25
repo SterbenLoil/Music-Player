@@ -24,22 +24,22 @@ $(function()
 	
 	var songs = [
      {
-		artist: "Dalab",
-		name: "Từ ngày em đến",
-		url: "Musics/tu-ngay-em-den.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		artist: "Maroon 5",
+		name: "Maps - V",
+		url: "https://drive.google.com/file/d/1hQAo4OqzNmWnGAao2N9kz9nZ0DOjZQnl/preview?usp=sharing",
+		picture: "https://drive.google.com/file/d/1fz6VJFZ3J3xU3uzRQrboE9JjqV8aEOml/preview?usp=sharing"
 	},
     {
-		artist: "Dalab",
-		name: "Một nhà",
-		url: "Musics/mot-nha.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		artist: "Maroon 5",
+		name: "Animals - V",
+		url: "https://drive.google.com/file/d/1RGGdKz5WEGSHO0AYQC8-ug4uUWU21zEl/preview?usp=sharing",
+		picture: "https://drive.google.com/file/d/1fz6VJFZ3J3xU3uzRQrboE9JjqV8aEOml/preview?usp=sharing"
     },
     {
-		artist: "JUSTATEE x PHƯƠNG LY",
-		name: "Thằng điên",
-		url: "Musics/thang-dien.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		artist: "Maroon 5",
+		name: "Sugar - V",
+		url: "https://drive.google.com/file/d/1c0Znqqc515NQmDqTTLJvDRurBq0cIKTc/preview?usp=sharing",
+		picture: "https://drive.google.com/file/d/1fz6VJFZ3J3xU3uzRQrboE9JjqV8aEOml/preview?usp=sharing"
     },
    ];
 	function shuffle(a) {
