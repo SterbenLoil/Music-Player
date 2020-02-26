@@ -26,7 +26,7 @@ $(function()
      {
 		artist: "Maroon 5",
 		name: "Maps - V",
-		url: "http://download1649.mediafire.com/7abwm8acna2g/5ewd8726srvelvr/01.++Maps.flac",
+		url: "https://download2267.mediafire.com/a9ld7m0yxzng/e496l7h7o7zsyvq/Maroon+5+-+Maps+%28Lyric+Video%29.mp3",
 		picture: "https://drive.google.com/file/d/1fz6VJFZ3J3xU3uzRQrboE9JjqV8aEOml/preview?usp=sharing"
 	},
     {
