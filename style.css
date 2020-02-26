@@ -121,7 +121,7 @@ body
 
 #track-time.active #current-time, #track-time.active #track-length
 {
-    color: linear-gradient(to right, #ff00cc, #0af9f6);
+    color: ;
     background-color: transparent;
 }
 
@@ -134,7 +134,7 @@ body
 
 #s-area
 {
-    background-color:#ffe8ee;
+    background-color:linear-gradient(to right, #ffabee, #9efffe);
     cursor: pointer;
 }
 
@@ -173,7 +173,7 @@ body
     bottom: 0;
     left: 0;
     width: 0;
-    background-color: #fd6d94;
+    background-color: linear-gradient(to right, #ff00cc, #0af9f6);
     -webkit-transition: 0.2s ease width;
     transition: 0.2s ease width;
     z-index: 1;
@@ -383,7 +383,7 @@ body
 #message {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 3.8rem;
-    color: #f86d92;
+    color: #fff;
     font-style: italic;
     font-weight: 700;
     display: flex;
