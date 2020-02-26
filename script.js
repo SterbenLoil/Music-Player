@@ -32,13 +32,13 @@ $(function()
     {
 		artist: "Maroon 5",
 		name: "Animals - V",
-		url: "https://www.mediafire.com/file/yudm185xqffv9cg/Maroon_5_-_Animals_%28Lyrics%29.mp3/file",
+		url: "http://download843.mediafire.com/jafooac0obeg/yudm185xqffv9cg/Maroon+5+-+Animals+%28Lyrics%29.mp3",
 		picture: "https://vignette.wikia.nocookie.net/maroon5/images/9/9a/Maroon_5_-_Animals.png/revision/latest?cb=20150412152211"
     },
     {
 		artist: "Maroon 5",
 		name: "Sugar - V",
-		url: "https://www.mediafire.com/file/u7eqpsr68kz1hil/Sugar_-_Maroon_5_%28Lyrics%29.mp3/file",
+		url: "http://download2269.mediafire.com/fusfyixgjssg/u7eqpsr68kz1hil/Sugar+-+Maroon+5+%28Lyrics%29.mp3",
 		picture: "https://vignette.wikia.nocookie.net/maroon5/images/d/d1/Maroon_5_-_Sugar.jpg/revision/latest?cb=20150322023652"
     },
    ];
@@ -272,8 +272,9 @@ $(function()
             $('#album-art img').prop('src', bgArtworkUrl);
             $('.song').removeClass('playingSong');
             $('#song' + currIndex).addClass('playingSong');
+	    albumArt.find('img').attr('src', currArtwork);
 			
-			bgArtwork.css({'background-image':'url('+currArtwork+')'});
+	    bgArtwork.css({'background-image':'url('+currArtwork+')'});
         }
         else
         {
