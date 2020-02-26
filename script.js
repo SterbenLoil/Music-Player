@@ -27,19 +27,19 @@ $(function()
 		artist: "Maroon 5",
 		name: "Maps - V",
 		url: "https://download2267.mediafire.com/a9ld7m0yxzng/e496l7h7o7zsyvq/Maroon+5+-+Maps+%28Lyric+Video%29.mp3",
-		picture: "https://drive.google.com/file/d/1fz6VJFZ3J3xU3uzRQrboE9JjqV8aEOml/preview?usp=sharing"
+		picture: "https://vignette.wikia.nocookie.net/maroon5/images/5/50/Maroon_5_-_Maps.png/revision/latest?cb=20150412152152"
 	},
     {
 		artist: "Maroon 5",
 		name: "Animals - V",
-		url: "https://drive.google.com/file/d/1RGGdKz5WEGSHO0AYQC8-ug4uUWU21zEl/preview?usp=sharing",
-		picture: "https://drive.google.com/file/d/1fz6VJFZ3J3xU3uzRQrboE9JjqV8aEOml/preview?usp=sharing"
+		url: "https://www.mediafire.com/file/yudm185xqffv9cg/Maroon_5_-_Animals_%28Lyrics%29.mp3/file",
+		picture: "https://vignette.wikia.nocookie.net/maroon5/images/9/9a/Maroon_5_-_Animals.png/revision/latest?cb=20150412152211"
     },
     {
 		artist: "Maroon 5",
 		name: "Sugar - V",
-		url: "https://drive.google.com/file/d/1c0Znqqc515NQmDqTTLJvDRurBq0cIKTc/preview?usp=sharing",
-		picture: "https://drive.google.com/file/d/1fz6VJFZ3J3xU3uzRQrboE9JjqV8aEOml/preview?usp=sharing"
+		url: "https://www.mediafire.com/file/u7eqpsr68kz1hil/Sugar_-_Maroon_5_%28Lyrics%29.mp3/file",
+		picture: "https://vignette.wikia.nocookie.net/maroon5/images/d/d1/Maroon_5_-_Sugar.jpg/revision/latest?cb=20150322023652"
     },
    ];
 	function shuffle(a) {
