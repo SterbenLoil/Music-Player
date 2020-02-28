@@ -462,3 +462,16 @@ body
     border-radius: 15px;
     background-color: #6a6d70;
 }
+
+.volume-slider-con{
+  height:10px;
+  width:50%;
+     position:relative;
+  background-color:#ddd;
+}
+.volume-slider{
+   height:100%;
+   width:100%;
+   position:relative;
+   background-color:red;
+}
