@@ -616,19 +616,19 @@ $(function()
 	var albumName = $('#album-name');
 	var trackName = $('#track-name');
 	var albumArt = $('#album-art'),
-		sArea = $('#s-area'),
-		seekBar = $('#seek-bar'),
-		trackTime = $('#track-time'),
-		insTime = $('#ins-time'),
-		sHover = $('#s-hover'),
-        playPauseButton = $("#play-pause-button"),
-        playRepeatButton = $("#play-repeat"),
-        openMenu = $('#play-menu'),
-		i = playPauseButton.find('i'),
-		tProgress = $('#current-time'),
-		tTime = $('#track-length'),
-		seekT, seekLoc, seekBarPos, cM, ctMinutes, ctSeconds, curMinutes, curSeconds, durMinutes, durSeconds, playProgress, bTime, nTime = 0,
-		buffInterval = null, tFlag = false;
+	    sArea = $('#s-area'),
+	    seekBar = $('#seek-bar'),
+	    trackTime = $('#track-time'),
+	    insTime = $('#ins-time'),
+	    sHover = $('#s-hover'),
+            playPauseButton = $("#play-pause-button"),
+            playRepeatButton = $("#play-repeat"),
+            openMenu = $('#play-menu'),
+	    i = playPauseButton.find('i'),
+	    tProgress = $('#current-time'),
+	    tTime = $('#track-length'),
+	    seekT, seekLoc, seekBarPos, cM, ctMinutes, ctSeconds, curMinutes, curSeconds, durMinutes, durSeconds, playProgress, bTime, nTime = 0,
+	    buffInterval = null, tFlag = false;
 	
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
