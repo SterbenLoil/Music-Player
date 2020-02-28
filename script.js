@@ -932,46 +932,34 @@ $(function()
     }
 
 		
-    var e = document.querySelector('.volume-slider-con');
-    var eInner = document.querySelector('.volume-slider');
-    var audio = document.querySelector('audio');
-    var drag = false;
-    e.addEventListener('mousedown',function(ev){
-       drag = true;
-       updateBar(ev.clientX);
-    });
-    document.addEventListener('mousemove',function(ev){
-       if(drag){
-          updateBar(ev.clientX);
-       }
-    });
-    document.addEventListener('mouseup',function(ev){
-        drag = false;
-    });
-    var updateBar = function (x, vol) {
-        var volume = e;
-        var percentage;
-        //if only volume have specificed
-        //then direct update volume
-        if (vol) {
-            percentage = vol * 100;
+//length: how many bars
+//height: height of the tallest bar
+//nowselected: which bar is selected
+function drawvolumecontroller(length,height,nowselected){    
+    document.getElementById("volumcontroller").innerHTML = "";
+    for (i=0;i<length;i++){
+        magassag = 7 + Math.round((1.4)*(length - i)); 
+        margintop = height-magassag;
+        if (margintop <= 0) {margintop=0;}
+        if (i >= nowselected){        
+            document.getElementById("volumcontroller").innerHTML = 
+            document.getElementById("volumcontroller").innerHTML + 
+            '<div  onmouseup="volumecontrolchanged(' + i + 
+            ')" style="background-color:#898989;height:' + magassag + 
+            'px;margin-top:'+margintop+'px;" class="volumecontrollerbar"></div>';
         } else {
-            var position = x - volume.offsetLeft;
-            percentage = 100 * position / volume.clientWidth;
-        }
-
-        if (percentage > 100) {
-            percentage = 100;
-        }
-        if (percentage < 0) {
-            percentage = 0;
-        }
-
-        //update volume bar and video volume
-        eInner.style.width = percentage +'%';
-        audio.volume = percentage / 100;
-};
-	
+            document.getElementById("volumcontroller").innerHTML = 
+            document.getElementById("volumcontroller").innerHTML + 
+            '<div  onmouseup="volumecontrolchanged(' + i + 
+            ')" style="height:'+magassag+'px;margin-top:' + margintop + 
+            'px;"class="volumecontrollerbar"></div>';
+        }        
+    }    
+}
+function volumecontrolchanged(newvolume){
+    drawvolumecontroller(20,35,newvolume);
+    document.getElementById("volumeindicator").innerHTML = newvolume;
+}
     
 	initPlayer();
 });
