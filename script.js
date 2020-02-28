@@ -642,7 +642,7 @@ $(function()
 		}
 		return a;
 	}
-	// songs = shuffle(songs);
+	songs = shuffle(songs);
 
     function playPause()
     {
@@ -822,7 +822,7 @@ $(function()
             currIndex = index;
         }
 
-        if( (currIndex > -1) && (currIndex < songs.length) )
+        if( (currIndex > -1) && (currIndex < o.length) )
         {
             if( flag == 0 )
                 i.attr('class','fa fa-play');
