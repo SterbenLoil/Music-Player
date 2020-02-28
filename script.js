@@ -5,7 +5,7 @@ $(function()
 		artist: "Maroon 5",
 		name: "Maps",
 		url: "./Music/Maroon 5 - Maps (Lyric Video).mp3",
-		picture: "./Picture/"
+		picture: "./Picture/bg (1).jpg"
 	},
     {
 		artist: "Maroon 5",
@@ -17,596 +17,596 @@ $(function()
 		artist: "Maroon 5",
 		name: "Sugar",
 		url: "./Music/Sugar - Maroon 5 (Lyrics).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
     	},
     {
 		artist: "Maroon 5 ft. Cardi B",
 		name: "Girls Like You",
 		url: "./Music/Maroon 5 - Girls Like You ft. Cardi B (Official Music Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Maroon 5 ft. SZA",
 		name: "What Lovers Do",
 		url: "./Music/Maroon 5 - What Lovers Do ft. SZA (Official Music Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Maroon 5 ft. Wiz Khalifa",
 		name: "Payphone",
 		url: "./Music/Maroon 5 - Payphone ft. Wiz Khalifa (Lyric Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Maroon 5",
 		name: "One More Night",
 		url: "./Music/Maroon 5 - One More Night (Lyric Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Maroon 5",
 		name: "Memories",
 		url: "./Music/Maroon 5 - Memories (Lyric Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "A Great Big World, Christina Aguilera",
 		name: "Say Something",
 		url: "./Music/A Great Big World, Christina Aguilera - Say Something.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Alan Walker feat. Noah Cyrus with Digital Farm Animals",
 		name: "All Falls Down",
 		url: "./Music/Alan Walker - All Falls Down (feat. Noah Cyrus with Digital Farm Animals).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Alan Walker",
 		name: "Alone",
 		url: "./Music/Alan Walker - Alone.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Alan Walker feat. Au ra and Tomine Harket",
 		name: "Darkside",
 		url: "./Music/Alan Walker - Darkside (feat. Au Ra and Tomine Harket).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Alan Walker feat. Sophia Somajo",
 		name: "Diamond Heart",
 		url: "./Music/Alan Walker - Diamond Heart (feat. Sophia Somajo).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Alan Walker",
 		name: "Faded",
 		url: "./Music/Alan Walker - Faded.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Alan Walker feat. Sorana",
 		name: "Lost Control",
 		url: "./Music/Alan Walker ‒ Lost Control (Lyrics) ft. Sorana.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Alan Walker",
 		name: "Sing Me To Sleep",
 		url: "./Music/Alan Walker - Sing Me To Sleep.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Alan Walker",
 		name: "The Spectre",
 		url: "./Music/Alan Walker - The Spectre.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Alan Walker & Ava Max",
 		name: "Alone, Pt. II",
 		url: "./Music/Alan Walker & Ava Max - Alone, Pt. II.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Alan Walker feat. Gavin James",
 		name: "Tired",
 		url: "./Music/Alan Walker ft. Gavin James - Tired.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Alan Walker vs Coldplay",
 		name: "Hymn For The Weekend (Remix)",
 		url: "./Music/Alan Walker vs Coldplay - Hymn For The Weekend [Remix].mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Alan Walker x A$AP Rocky",
 		name: "Live Fast",
 		url: "./Music/Alan Walker x A$AP Rocky - Live Fast (PUBGM) Lyric Video.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Alan Walker, K-391 & Emelie Hollow",
 		name: "Lily",
 		url: "./Music/Alan Walker, K-391 & Emelie Hollow - Lily (Lyrics).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Alan Walker, K-391, Tungevaag, Mangoo",
 		name: "PLAY",
 		url: "./Music/Alan Walker, K-391, Tungevaag, Mangoo - PLAY (Alan Walker's Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Alec Benjamin",
 		name: "Let Me Down Slowly",
 		url: "./Music/Alec Benjamin - Let Me Down Slowly [Official Music Video].mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Ava Max",
 		name: "So Am I",
 		url: "./Music/Ava Max - So Am I [Official Music Video].mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Avicii",
 		name: "Broken Arrows",
 		url: "./Music/Avicii - Broken Arrows.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Avicii",
 		name: "Hey Brother",
 		url: "./Music/Avicii - Hey Brother (Lyric).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Avicii",
 		name: "Levels",
 		url: "./Music/Avicii - Levels.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Avicii ft. Rita Ora",
 		name: "Lonely Together",
 		url: "./Music/Avicii - Lonely Together ft. Rita Ora.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Avicii ft. Aloe Blacc",
 		name: "SOS",
 		url: "./Music/Avicii - SOS (Fan Memories Video) ft. Aloe Blacc.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Avicii",
 		name: "The Nights",
 		url: "./Music/Avicii - The Nights.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Avicii",
 		name: "Waiting For Love",
 		url: "./Music/Avicii - Waiting For Love.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Avicii",
 		name: "Wake Me Up",
 		url: "./Music/Avicii - Wake Me Up (Official Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Avicii ft. Sandro Cavazza",
 		name: "Without You",
 		url: "./Music/Avicii - Without You “Audio” ft. Sandro Cavazza.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "ft. Valerie Broussard - League Of Legends",
 		name: "Awaken",
 		url: "./Music/Awaken (ft. Valerie Broussard) Season 2019 Cinematic - League of Legends.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Bruno Mars",
 		name: "That's What I Like",
 		url: "./Music/Bruno Mars - That’s What I Like (Official Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Bruno Mars",
 		name: "The Lazy Song",
 		url: "./Music/Bruno Mars - The Lazy Song (Official Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Camila Cabello ft. Young Thug",
 		name: "Havana",
 		url: "./Music/Camila Cabello - Havana ft. Young Thug [MP3 Free Download].mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Charlie Puth",
 		name: "Attention",
 		url: "./Music/Charlie Puth - Attention [Official Video].mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Charlie Puth",
 		name: "How Long",
 		url: "./Music/Charlie Puth - Howlong.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Charlie Puth ft. Meghan Trainor",
 		name: "Marvin Gaye",
 		url: "./Music/Charlie Puth - Marvin Gaye ft. Meghan Trainor [Official Video].mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Charlie Puth feat. Selena Gomez",
 		name: "We Don't Talk Anymore",
 		url: "./Music/Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez) [Official Video].mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Christina Perri",
 		name: "A Thousand Years",
 		url: "./Music/Christina Perri - A Thousand Years [Official Music Video].mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Clean Bandit feat. Sean Paul & Anne-Marie",
 		name: "Rockabye",
 		url: "./Music/Clean Bandit - Rockabye (feat. Sean Paul & Anne-Marie) [Official Video].mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Clean Bandit feat. Demi Lovato",
 		name: "Solo",
 		url: "./Music/Clean Bandit - Solo (feat. Demi Lovato) [Official Video].mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Clean Bandit ft. Zara Larsson",
 		name: "Symphony",
 		url: "./Music/Clean Bandit - Symphony (feat. Zara Larsson) [Official Video].mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "David Guetta ft. Sia",
 		name: "Titanium",
 		url: "./Music/David Guetta - Titanium ft. Sia (Official Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "DJ Snake, Lil Jon",
 		name: "Turn Down for What",
 		url: "./Music/DJ Snake, Lil Jon - Turn Down for What.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Ed Sheeran with Beyoncé",
 		name: "Perfect Duet",
 		url: "./Music/Ed Sheeran - Perfect Duet (with Beyoncé) [Official Audio].mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Ed Sheeran",
 		name: "Lego House",
 		url: "./Music/Ed Sheeran - Lego House [Official Video].mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Ed Sheeran",
 		name: "Photograph",
 		url: "./Music/Ed Sheeran - Photograph (Official Music Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Fall Out Boy",
 		name: "Centuries",
 		url: "./Music/Fall Out Boy - Centuries (Official Music Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Fall Out Boy",
 		name: "Immortals",
 		url: "./Music/Fall Out Boy - Immortals (Official Music Video) (From.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Gnash ft. Olivia o'brien",
 		name: "I hate U, I Love U",
 		url: "./Music/gnash - i hate u, i love u ft. olivia o'brien (music video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Ft. Zedd - League Of Legends",
 		name: "Ignite",
 		url: "./Music/Ignite (ft. Zedd) Worlds 2016 - League of Legends.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Imagine Dragons",
 		name: "Thunder",
 		url: "./Music/Imagine Dragons - Thunder.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Imagine Dragons",
 		name: "Whatever It Takes",
 		url: "./Music/Imagine Dragons - Whatever It Takes.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Jason Mraz",
 		name: "I'm Yours",
 		url: "./Music/Jason Mraz - I'm Yours (Official Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Jonas Brothers",
 		name: "Sucker",
 		url: "./Music/Jonas Brothers - Sucker.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Alan Walker & K-391 feat. Julie Bergan & Seungri",
 		name: "Ignite",
 		url: "./Music/K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Katy Perry",
 		name: "Roar",
 		url: "./Music/Katy Perry - Roar (Official).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: " Lay - Alan Walker Relift",
 		name: "Sheep",
 		url: "./Music/Lay - Sheep (Alan Walker Relift).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Ft. Against The Current - League Of Legends",
 		name: "Legends Never Die",
 		url: "./Music/Legends Never Die (ft. Against The Current) Worlds 2017 - League of Legends.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Lil Nas X ft. Billy Ray Cyrus",
 		name: "Old Town Road",
 		url: "./Music/Lil Nas X - Old Town Road (Official Video) ft. Billy Ray Cyrus.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Louis Fonsi ft. Daddy Yankee",
 		name: "Despacito",
 		url: "./Music/Luis Fonsi - Despacito ft. Daddy Yankee.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
 				
     {
 		artist: "MAGIC!",
 		name: "Rude",
 		url: "./Music/MAGIC! - Rude (Official Music Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Major Lazer feat. Justin Bieber & MØ",
 		name: "Cold Water",
 		url: "./Music/Major Lazer - Cold Water (feat. Justin Bieber & MØ) (Official Lyric Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Major Lazer & DJ Snake feat. MØ",
 		name: "Lean On",
 		url: "./Music/Major Lazer & DJ Snake - Lean On (feat. MØ) (Official Music Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Mark Ronson",
 		name: "Uptown Funk",
 		url: "./Music/Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Marshmello & Anne-Marie",
 		name: "FRIENDS",
 		url: "./Music/Marshmello & Anne-Marie - FRIENDS (Lyric Video) OFFICIAL FRIENDZONE ANTHEM.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Marshmello ft. Khalid",
 		name: "Silence",
 		url: "./Music/Marshmello ft. Khalid - Silence (Official Lyric Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Martin Garrix & Bebe Rexha",
 		name: "In The Name Of Love",
 		url: "./Music/Martin Garrix & Bebe Rexha - In The Name Of Love (Official Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Martin Garrix & Dua Lipa",
 		name: "Scared To Be Lonely",
 		url: "./Music/Martin Garrix & Dua Lipa - Scared To Be Lonely (Official Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Mike Posner",
 		name: "I Took A Pill In Ibiza",
 		url: "./Music/Mike Posner - I Took A Pill In Ibiza (Seeb Remix) (Explicit).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Naughty Boy ft. Sam Smith",
 		name: "La la la",
 		url: "./Music/Naughty Boy - La la la ft. Sam Smith (Official Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Passenger",
 		name: "Let Her Go",
 		url: "./Music/Passenger Let Her Go (Official Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Pharrell Williams",
 		name: "Happy",
 		url: "./Music/Pharrell Williams - Happy (Official Music Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Ft. Cailin Russo and Chrissy Costanza - League Of Legends",
 		name: "Phoenix",
 		url: "./Music/Phoenix (ft. Cailin Russo and Chrissy Costanza) Worlds 2019 - League of Legends.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Ft. The Glitch Mob, Mako and The Word Alive - League Of Legends",
 		name: "RISE",
 		url: "./Music/RISE (ft. The Glitch Mob, Mako, and The Word Alive) Worlds 2018 - League of Legends.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Rixton",
 		name: "Me And My Broken Heart",
 		url: "./Music/Rixton - Me and My Broken Heart (Official Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Shawn Mendes",
 		name: "There's Nothing Holdin' Me Back",
 		url: "./Music/Shawn Mendes - There's Nothing Holdin' Me Back.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Shawn Mendes",
 		name: "Treat You Better",
 		url: "./Music/Shawn Mendes - Treat You Better.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Shawn Mendes, Camila Cabello",
 		name: "Señorita",
 		url: "./Music/Shawn Mendes, Camila Cabello - Señorita.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Sia ft. Sean Paul",
 		name: "Cheap Thrills",
 		url: "./Music/Sia - Cheap Thrills ft. Sean Paul (Lyric Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Martin Garrix & David Guetta (Adam Christopher Cover)",
 		name: "So Far Away",
 		url: "./Music/So Far Away (Acoustic) - Martin Garrix & David Guetta (Cover by Adam Christopher).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "The Chainsmokers ft. Halsey",
 		name: "Closer",
 		url: "./Music/The Chainsmokers - Closer (Lyric) ft. Halsey.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "The Chainsmokers ft. Daya",
 		name: "Don't Let me Down",
 		url: "./Music/The Chainsmokers - Don't Let Me Down ft. Daya (Official Music Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "The Chainsmokers ft. Winoa Oak",
 		name: "Hope",
 		url: "./Music/The Chainsmokers - Hope ft. Winona Oak (Lyric Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "The Chainsmokers",
 		name: "Paris",
 		url: "./Music/The Chainsmokers - Paris (Lyric Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "The Chainsmokers",
 		name: "Sick Boy",
 		url: "./Music/The Chainsmokers - Sick Boy (Official Music Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "The Chainsmokers & Coldplay",
 		name: "Something Just Like This",
 		url: "./Music/The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "The Chainsmokers, ILLENIUM ft. Lennon Stella",
 		name: "Takeaway",
 		url: "./Music/The Chainsmokers, ILLENIUM - Takeaway (Official Video) ft. Lennon Stella.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Tones And I ",
 		name: "Dance Monkey",
 		url: "./Music/Tones And I - Dance Monkey (Lyrics).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Twenty One Pilots",
 		name: "Heathens",
 		url: "./Music/twenty one pilots Heathens (from Suicide Squad The Album) [OFFICIAL VIDEO].mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Twenty One Pilots",
 		name: "Stressed Out",
 		url: "./Music/twenty one pilots Stressed Out [OFFICIAL VIDEO].mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "ft. 2WEI and Edda Hayes - League Of Legends",
 		name: "Warriors 2020",
 		url: "./Music/Warriors Season 2020 Cinematic - League of Legends (ft. 2WEI and Edda Hayes).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Wiz Khalifa ft. Charlie Puth",
 		name: "See You Again",
 		url: "./Music/Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack.mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Y2K, bbno$",
 		name: "Lalala",
 		url: "./Music/Y2K, bbno$ - Lalala (Official Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "ZAYN ft. Sia",
 		name: "Dusk Till Dawn",
 		url: "./Music/ZAYN - Dusk Till Dawn ft. Sia (Official Music Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Zedd ft. Jon Bellion",
 		name: "Beautiful Now",
 		url: "./Music/Zedd - Beautiful Now ft. Jon Bellion (Official Music Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
     {
 		artist: "Zedd ft. Elley Duhé",
 		name: "Happy Now",
 		url: "./Music/Zedd - Beautiful Now ft. Jon Bellion (Official Music Video).mp3",
-		picture: "./Picture"
+		picture: "./Picture/"
    	},
 		
    ];
