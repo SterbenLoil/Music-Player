@@ -10,8 +10,9 @@
     <link rel="stylesheet" href="./style.css">
 
 </head>
-
+<body onload="drawvolumecontroller(20,35,8);">
 <body>
+    
     <!-- partial:index.partial.html -->
     <!-- Tracks used in this music/audio player application are free to use. I downloaded them from Soundcloud and NCS websites. I am not the owner of these tracks. -->
     <h1 id="message">Listen and feel the rhythm.</h1>
@@ -64,8 +65,10 @@
                             <i class="fas fa-bars"></i>
                         </div>
                     </div>
-                    <div class="volume-slider-con">
-                        <div class="volume-slider"></div>
+                    <div id="volumcontroller">
+                    </div>
+                    <div id="volumeindicator">
+                        8
                     </div>
                 </div>
             </div>
