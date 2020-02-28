@@ -1,6 +1,99 @@
 $(function()
 {
-    var playerTrack = $("#player-track");
+	var songs = [
+     {
+		artist: "Maroon 5",
+		name: "Maps",
+		url: "https://download2267.mediafire.com/a9ld7m0yxzng/e496l7h7o7zsyvq/Maroon+5+-+Maps+%28Lyric+Video%29.mp3",
+		picture: "https://vignette.wikia.nocookie.net/maroon5/images/5/50/Maroon_5_-_Maps.png/revision/latest?cb=20150412152152"
+	},
+    {
+		artist: "Maroon 5",
+		name: "Animals",
+		url: "http://download843.mediafire.com/jafooac0obeg/yudm185xqffv9cg/Maroon+5+-+Animals+%28Lyrics%29.mp3",
+		picture: "https://vignette.wikia.nocookie.net/maroon5/images/9/9a/Maroon_5_-_Animals.png/revision/latest?cb=20150412152211"
+    },
+    {
+		artist: "Maroon 5",
+		name: "Sugar",
+		url: "http://download2269.mediafire.com/fusfyixgjssg/u7eqpsr68kz1hil/Sugar+-+Maroon+5+%28Lyrics%29.mp3",
+		picture: "https://vignette.wikia.nocookie.net/maroon5/images/d/d1/Maroon_5_-_Sugar.jpg/revision/latest?cb=20150322023652"
+    	},
+    {
+		artist: "Maroon 5 ft. Cardi B",
+		name: "Girls Like You",
+		url: "http://download2269.mediafire.com/fusfyixgjssg/u7eqpsr68kz1hil/Sugar+-+Maroon+5+%28Lyrics%29.mp3",
+		picture: "https://vignette.wikia.nocookie.net/maroon5/images/d/d1/Maroon_5_-_Sugar.jpg/revision/latest?cb=20150322023652"
+   	},
+    {
+		artist: "Maroon 5 ft. SZA",
+		name: "What Lovers Do",
+		url: "http://download2269.mediafire.com/fusfyixgjssg/u7eqpsr68kz1hil/Sugar+-+Maroon+5+%28Lyrics%29.mp3",
+		picture: "https://vignette.wikia.nocookie.net/maroon5/images/d/d1/Maroon_5_-_Sugar.jpg/revision/latest?cb=20150322023652"
+   	},
+    {
+		artist: "Maroon 5 ft. Wiz Khalifa",
+		name: "Payphone",
+		url: "http://download2269.mediafire.com/fusfyixgjssg/u7eqpsr68kz1hil/Sugar+-+Maroon+5+%28Lyrics%29.mp3",
+		picture: "https://vignette.wikia.nocookie.net/maroon5/images/d/d1/Maroon_5_-_Sugar.jpg/revision/latest?cb=20150322023652"
+   	},
+    {
+		artist: "Maroon 5",
+		name: "One More Night",
+		url: "http://download2269.mediafire.com/fusfyixgjssg/u7eqpsr68kz1hil/Sugar+-+Maroon+5+%28Lyrics%29.mp3",
+		picture: "https://vignette.wikia.nocookie.net/maroon5/images/d/d1/Maroon_5_-_Sugar.jpg/revision/latest?cb=20150322023652"
+   	},
+    {
+		artist: "Maroon 5",
+		name: "Memories",
+		url: "http://download2269.mediafire.com/fusfyixgjssg/u7eqpsr68kz1hil/Sugar+-+Maroon+5+%28Lyrics%29.mp3",
+		picture: "https://vignette.wikia.nocookie.net/maroon5/images/d/d1/Maroon_5_-_Sugar.jpg/revision/latest?cb=20150322023652"
+   	},
+    {
+		artist: "A Great Big World, Christina Aguilera",
+		name: "Say Something",
+		url: "http://download2269.mediafire.com/fusfyixgjssg/u7eqpsr68kz1hil/Sugar+-+Maroon+5+%28Lyrics%29.mp3",
+		picture: "https://vignette.wikia.nocookie.net/maroon5/images/d/d1/Maroon_5_-_Sugar.jpg/revision/latest?cb=20150322023652"
+   	},
+    {
+		artist: "Alan Walker feat. Noah Cyrus with Digital Farm Animals",
+		name: "All Falls Down",
+		url: "http://download2269.mediafire.com/fusfyixgjssg/u7eqpsr68kz1hil/Sugar+-+Maroon+5+%28Lyrics%29.mp3",
+		picture: "https://vignette.wikia.nocookie.net/maroon5/images/d/d1/Maroon_5_-_Sugar.jpg/revision/latest?cb=20150322023652"
+   	},
+    {
+		artist: "Alan Walker",
+		name: "Alone",
+		url: "http://download2269.mediafire.com/fusfyixgjssg/u7eqpsr68kz1hil/Sugar+-+Maroon+5+%28Lyrics%29.mp3",
+		picture: "https://vignette.wikia.nocookie.net/maroon5/images/d/d1/Maroon_5_-_Sugar.jpg/revision/latest?cb=20150322023652"
+   	},
+    {
+		artist: "Alan Walker feat. Au ra and Tomine Harket",
+		name: "Darkside",
+		url: "http://download2269.mediafire.com/fusfyixgjssg/u7eqpsr68kz1hil/Sugar+-+Maroon+5+%28Lyrics%29.mp3",
+		picture: "https://vignette.wikia.nocookie.net/maroon5/images/d/d1/Maroon_5_-_Sugar.jpg/revision/latest?cb=20150322023652"
+   	},
+    {
+		artist: "Maroon 5",
+		name: "Sugar - V",
+		url: "http://download2269.mediafire.com/fusfyixgjssg/u7eqpsr68kz1hil/Sugar+-+Maroon+5+%28Lyrics%29.mp3",
+		picture: "https://vignette.wikia.nocookie.net/maroon5/images/d/d1/Maroon_5_-_Sugar.jpg/revision/latest?cb=20150322023652"
+   	},
+    {
+		artist: "Maroon 5",
+		name: "Sugar - V",
+		url: "http://download2269.mediafire.com/fusfyixgjssg/u7eqpsr68kz1hil/Sugar+-+Maroon+5+%28Lyrics%29.mp3",
+		picture: "https://vignette.wikia.nocookie.net/maroon5/images/d/d1/Maroon_5_-_Sugar.jpg/revision/latest?cb=20150322023652"
+   	},
+    {
+		artist: "Maroon 5",
+		name: "Sugar - V",
+		url: "http://download2269.mediafire.com/fusfyixgjssg/u7eqpsr68kz1hil/Sugar+-+Maroon+5+%28Lyrics%29.mp3",
+		picture: "https://vignette.wikia.nocookie.net/maroon5/images/d/d1/Maroon_5_-_Sugar.jpg/revision/latest?cb=20150322023652"
+   	},
+
+   ];
+   	var playerTrack = $("#player-track");
 	var bgArtwork = $('#bg-artwork');
 	var bgArtworkUrl;
 	var albumName = $('#album-name');
@@ -22,26 +115,6 @@ $(function()
 	
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
-	var songs = [
-     {
-		artist: "Maroon 5",
-		name: "Maps - V",
-		url: "https://download2267.mediafire.com/a9ld7m0yxzng/e496l7h7o7zsyvq/Maroon+5+-+Maps+%28Lyric+Video%29.mp3",
-		picture: "https://vignette.wikia.nocookie.net/maroon5/images/5/50/Maroon_5_-_Maps.png/revision/latest?cb=20150412152152"
-	},
-    {
-		artist: "Maroon 5",
-		name: "Animals - V",
-		url: "http://download843.mediafire.com/jafooac0obeg/yudm185xqffv9cg/Maroon+5+-+Animals+%28Lyrics%29.mp3",
-		picture: "https://vignette.wikia.nocookie.net/maroon5/images/9/9a/Maroon_5_-_Animals.png/revision/latest?cb=20150412152211"
-    },
-    {
-		artist: "Maroon 5",
-		name: "Sugar - V",
-		url: "http://download2269.mediafire.com/fusfyixgjssg/u7eqpsr68kz1hil/Sugar+-+Maroon+5+%28Lyrics%29.mp3",
-		picture: "https://vignette.wikia.nocookie.net/maroon5/images/d/d1/Maroon_5_-_Sugar.jpg/revision/latest?cb=20150322023652"
-    },
-   ];
 	function shuffle(a) {
 		var j, x, i;
 		for (i = a.length - 1; i > 0; i--) {
