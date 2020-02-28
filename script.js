@@ -4,13 +4,13 @@ $(function()
      {
 		artist: "Maroon 5",
 		name: "Maps",
-		url: "https://download2267.mediafire.com/a9ld7m0yxzng/e496l7h7o7zsyvq/Maroon+5+-+Maps+%28Lyric+Video%29.mp3",
+		url: "./Music/Maroon 5 - Maps (Lyric Video).mp3",
 		picture: "https://vignette.wikia.nocookie.net/maroon5/images/5/50/Maroon_5_-_Maps.png/revision/latest?cb=20150412152152"
 	},
     {
 		artist: "Maroon 5",
 		name: "Animals",
-		url: "http://download843.mediafire.com/jafooac0obeg/yudm185xqffv9cg/Maroon+5+-+Animals+%28Lyrics%29.mp3",
+		url: "./Music/Maroon 5 - Animals (Lyrics).mp3",
 		picture: "https://vignette.wikia.nocookie.net/maroon5/images/9/9a/Maroon_5_-_Animals.png/revision/latest?cb=20150412152211"
     },
     {
