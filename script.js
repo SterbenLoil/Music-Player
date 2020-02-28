@@ -621,16 +621,18 @@ $(function()
 	    trackTime = $('#track-time'),
 	    insTime = $('#ins-time'),
 	    sHover = $('#s-hover'),
-            playPauseButton = $("#play-pause-button"),
-            playRepeatButton = $("#play-repeat"),
-            openMenu = $('#play-menu'),
+        playPauseButton = $("#play-pause-button"),
+        playRepeatButton = $("#play-repeat"),
+        openMenu = $('#play-menu'),
 	    i = playPauseButton.find('i'),
 	    tProgress = $('#current-time'),
 	    tTime = $('#track-length'),
 	    seekT, seekLoc, seekBarPos, cM, ctMinutes, ctSeconds, curMinutes, curSeconds, durMinutes, durSeconds, playProgress, bTime, nTime = 0,
 	    buffInterval = null, tFlag = false;
 	
-	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
+	var playPreviousTrackButton = $('#play-previous'),
+		playNextTrackButton = $('#play-next'),
+		currIndex = -1;
 	
 	function shuffle(a) {
 		var j, x, i;
